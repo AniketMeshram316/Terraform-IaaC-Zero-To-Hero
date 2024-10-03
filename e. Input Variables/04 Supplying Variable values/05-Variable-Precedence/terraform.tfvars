@@ -1,0 +1,1 @@
+log_data = "[Info]: Service started. Data through .tfvars"
